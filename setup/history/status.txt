@@ -1,0 +1,134 @@
+2014-06-19T00:52:53.3291342-04:00 : Importing D:\pbpost\voters\data\voterhistory\ALA_H_20140502.txt
+2014-06-19T00:53:55.2880552-04:00 : finished importing D:\pbpost\voters\data\voterhistory\ALA_H_20140502.txt
+2014-06-19T00:53:55.3211147-04:00 : Importing D:\pbpost\voters\data\voterhistory\BAK_H_20140502.txt
+2014-06-19T00:54:01.3555346-04:00 : finished importing D:\pbpost\voters\data\voterhistory\BAK_H_20140502.txt
+2014-06-19T00:54:01.4676739-04:00 : Importing D:\pbpost\voters\data\voterhistory\BAY_H_20140502.txt
+2014-06-19T00:54:53.4546017-04:00 : finished importing D:\pbpost\voters\data\voterhistory\BAY_H_20140502.txt
+2014-06-19T00:54:53.4625967-04:00 : Importing D:\pbpost\voters\data\voterhistory\BRA_H_20140502.txt
+2014-06-19T00:55:03.6117579-04:00 : finished importing D:\pbpost\voters\data\voterhistory\BRA_H_20140502.txt
+2014-06-19T00:55:03.6227717-04:00 : Importing D:\pbpost\voters\data\voterhistory\BRE_H_20140502.txt
+2014-06-19T00:57:51.4998769-04:00 : finished importing D:\pbpost\voters\data\voterhistory\BRE_H_20140502.txt
+2014-06-19T00:57:51.5048833-04:00 : Importing D:\pbpost\voters\data\voterhistory\BRO_H_20140502.txt
+2014-06-19T01:03:59.4551680-04:00 : finished importing D:\pbpost\voters\data\voterhistory\BRO_H_20140502.txt
+2014-06-19T01:03:59.4611734-04:00 : Importing D:\pbpost\voters\data\voterhistory\CAL_H_20140502.txt
+2014-06-19T01:04:03.6559624-04:00 : finished importing D:\pbpost\voters\data\voterhistory\CAL_H_20140502.txt
+2014-06-19T01:04:03.6649721-04:00 : Importing D:\pbpost\voters\data\voterhistory\CHA_H_20140502.txt
+2014-06-19T01:05:05.0664204-04:00 : finished importing D:\pbpost\voters\data\voterhistory\CHA_H_20140502.txt
+2014-06-19T01:05:05.0714253-04:00 : Importing D:\pbpost\voters\data\voterhistory\CIT_H_20140502.txt
+2014-06-19T01:06:00.3563507-04:00 : finished importing D:\pbpost\voters\data\voterhistory\CIT_H_20140502.txt
+2014-06-19T01:06:00.3613571-04:00 : Importing D:\pbpost\voters\data\voterhistory\CLA_H_20140502.txt
+2014-06-19T01:07:17.2357791-04:00 : finished importing D:\pbpost\voters\data\voterhistory\CLA_H_20140502.txt
+2014-06-19T01:07:17.2407983-04:00 : Importing D:\pbpost\voters\data\voterhistory\CLL_H_20140502.txt
+2014-06-19T01:09:03.0829838-04:00 : finished importing D:\pbpost\voters\data\voterhistory\CLL_H_20140502.txt
+2014-06-19T01:09:03.0909941-04:00 : Importing D:\pbpost\voters\data\voterhistory\CLM_H_20140502.txt
+2014-06-19T01:09:30.0273193-04:00 : finished importing D:\pbpost\voters\data\voterhistory\CLM_H_20140502.txt
+2014-06-19T01:09:30.0363255-04:00 : Importing D:\pbpost\voters\data\voterhistory\DAD_H_20140502.txt
+2014-06-19T01:20:38.7972669-04:00 : finished importing D:\pbpost\voters\data\voterhistory\DAD_H_20140502.txt
+2014-06-19T01:20:38.8162956-04:00 : Importing D:\pbpost\voters\data\voterhistory\DES_H_20140502.txt
+2014-06-19T01:21:01.1734751-04:00 : finished importing D:\pbpost\voters\data\voterhistory\DES_H_20140502.txt
+2014-06-19T01:21:01.1934921-04:00 : Importing D:\pbpost\voters\data\voterhistory\DIX_H_20140502.txt
+2014-06-19T01:21:25.8897955-04:00 : finished importing D:\pbpost\voters\data\voterhistory\DIX_H_20140502.txt
+2014-06-19T01:21:25.8998041-04:00 : Importing D:\pbpost\voters\data\voterhistory\DUV_H_20140502.txt
+2014-06-19T01:35:45.3849850-04:00 : finished importing D:\pbpost\voters\data\voterhistory\DUV_H_20140502.txt
+2014-06-19T01:35:45.3929922-04:00 : Importing D:\pbpost\voters\data\voterhistory\ESC_H_20140502.txt
+2014-06-19T01:38:43.3416951-04:00 : finished importing D:\pbpost\voters\data\voterhistory\ESC_H_20140502.txt
+2014-06-19T01:38:43.3467316-04:00 : Importing D:\pbpost\voters\data\voterhistory\FLA_H_20140502.txt
+2014-06-19T01:40:55.7292509-04:00 : finished importing D:\pbpost\voters\data\voterhistory\FLA_H_20140502.txt
+2014-06-19T01:40:55.7342581-04:00 : Importing D:\pbpost\voters\data\voterhistory\FRA_H_20140502.txt
+2014-06-19T01:41:06.6931513-04:00 : finished importing D:\pbpost\voters\data\voterhistory\FRA_H_20140502.txt
+2014-06-19T01:41:06.7031688-04:00 : Importing D:\pbpost\voters\data\voterhistory\GAD_H_20140502.txt
+2014-06-19T01:41:55.4531862-04:00 : finished importing D:\pbpost\voters\data\voterhistory\GAD_H_20140502.txt
+2014-06-19T01:41:55.4631960-04:00 : Importing D:\pbpost\voters\data\voterhistory\GIL_H_20140502.txt
+2014-06-19T01:42:41.5097773-04:00 : finished importing D:\pbpost\voters\data\voterhistory\GIL_H_20140502.txt
+2014-06-19T01:42:41.5137813-04:00 : Importing D:\pbpost\voters\data\voterhistory\GLA_H_20140502.txt
+2014-06-19T01:42:52.0032545-04:00 : finished importing D:\pbpost\voters\data\voterhistory\GLA_H_20140502.txt
+2014-06-19T01:42:52.0082582-04:00 : Importing D:\pbpost\voters\data\voterhistory\GUL_H_20140502.txt
+2014-06-19T01:43:22.3686760-04:00 : finished importing D:\pbpost\voters\data\voterhistory\GUL_H_20140502.txt
+2014-06-19T01:43:22.3726800-04:00 : Importing D:\pbpost\voters\data\voterhistory\HAM_H_20140502.txt
+2014-06-19T01:43:49.9255628-04:00 : finished importing D:\pbpost\voters\data\voterhistory\HAM_H_20140502.txt
+2014-06-19T01:43:49.9376044-04:00 : Importing D:\pbpost\voters\data\voterhistory\HAR_H_20140502.txt
+2014-06-19T01:44:05.0231978-04:00 : finished importing D:\pbpost\voters\data\voterhistory\HAR_H_20140502.txt
+2014-06-19T01:44:05.0272169-04:00 : Importing D:\pbpost\voters\data\voterhistory\HEN_H_20140502.txt
+2014-06-19T01:45:13.8453472-04:00 : finished importing D:\pbpost\voters\data\voterhistory\HEN_H_20140502.txt
+2014-06-19T01:45:13.8523597-04:00 : Importing D:\pbpost\voters\data\voterhistory\HER_H_20140502.txt
+2014-06-19T01:48:10.4168071-04:00 : finished importing D:\pbpost\voters\data\voterhistory\HER_H_20140502.txt
+2014-06-19T01:48:10.4208115-04:00 : Importing D:\pbpost\voters\data\voterhistory\HIG_H_20140502.txt
+2014-06-19T01:50:32.7893798-04:00 : finished importing D:\pbpost\voters\data\voterhistory\HIG_H_20140502.txt
+2014-06-19T01:50:32.7983910-04:00 : Importing D:\pbpost\voters\data\voterhistory\HIL_H_20140502.txt
+2014-06-19T02:02:02.0178068-04:00 : finished importing D:\pbpost\voters\data\voterhistory\HIL_H_20140502.txt
+2014-06-19T02:02:02.0258129-04:00 : Importing D:\pbpost\voters\data\voterhistory\HOL_H_20140502.txt
+2014-06-19T02:02:20.7827515-04:00 : finished importing D:\pbpost\voters\data\voterhistory\HOL_H_20140502.txt
+2014-06-19T02:02:20.7877560-04:00 : Importing D:\pbpost\voters\data\voterhistory\IND_H_20140502.txt
+2014-06-19T02:06:12.2047448-04:00 : finished importing D:\pbpost\voters\data\voterhistory\IND_H_20140502.txt
+2014-06-19T02:06:12.2147604-04:00 : Importing D:\pbpost\voters\data\voterhistory\JAC_H_20140502.txt
+2014-06-19T02:07:44.8404043-04:00 : finished importing D:\pbpost\voters\data\voterhistory\JAC_H_20140502.txt
+2014-06-19T02:07:44.8484104-04:00 : Importing D:\pbpost\voters\data\voterhistory\JEF_H_20140502.txt
+2014-06-19T02:08:25.7343339-04:00 : finished importing D:\pbpost\voters\data\voterhistory\JEF_H_20140502.txt
+2014-06-19T02:08:25.7383348-04:00 : Importing D:\pbpost\voters\data\voterhistory\LAF_H_20140502.txt
+2014-06-19T02:08:41.7327798-04:00 : finished importing D:\pbpost\voters\data\voterhistory\LAF_H_20140502.txt
+2014-06-19T02:08:41.7417914-04:00 : Importing D:\pbpost\voters\data\voterhistory\LAK_H_20140502.txt
+2014-06-19T02:16:51.1317447-04:00 : finished importing D:\pbpost\voters\data\voterhistory\LAK_H_20140502.txt
+2014-06-19T02:16:51.1407520-04:00 : Importing D:\pbpost\voters\data\voterhistory\LEE_H_20140502.txt
+2014-06-19T02:26:41.5429314-04:00 : finished importing D:\pbpost\voters\data\voterhistory\LEE_H_20140502.txt
+2014-06-19T02:26:41.5549442-04:00 : Importing D:\pbpost\voters\data\voterhistory\LEO_H_20140502.txt
+2014-06-19T02:31:37.6193100-04:00 : finished importing D:\pbpost\voters\data\voterhistory\LEO_H_20140502.txt
+2014-06-19T02:31:37.6253504-04:00 : Importing D:\pbpost\voters\data\voterhistory\LEV_H_20140502.txt
+2014-06-19T02:32:43.4407522-04:00 : finished importing D:\pbpost\voters\data\voterhistory\LEV_H_20140502.txt
+2014-06-19T02:32:43.4457563-04:00 : Importing D:\pbpost\voters\data\voterhistory\LIB_H_20140502.txt
+2014-06-19T02:33:02.1286303-04:00 : finished importing D:\pbpost\voters\data\voterhistory\LIB_H_20140502.txt
+2014-06-19T02:33:02.1326343-04:00 : Importing D:\pbpost\voters\data\voterhistory\MAD_H_20140502.txt
+2014-06-19T02:33:35.9221469-04:00 : finished importing D:\pbpost\voters\data\voterhistory\MAD_H_20140502.txt
+2014-06-19T02:33:35.9271510-04:00 : Importing D:\pbpost\voters\data\voterhistory\MAN_H_20140502.txt
+2014-06-19T02:39:56.6833978-04:00 : finished importing D:\pbpost\voters\data\voterhistory\MAN_H_20140502.txt
+2014-06-19T02:39:56.6944590-04:00 : Importing D:\pbpost\voters\data\voterhistory\MON_H_20140502.txt
+2014-06-19T02:43:47.4938309-04:00 : finished importing D:\pbpost\voters\data\voterhistory\MON_H_20140502.txt
+2014-06-19T02:43:47.4998367-04:00 : Importing D:\pbpost\voters\data\voterhistory\MRN_H_20140502.txt
+2014-06-19T02:53:40.4041999-04:00 : finished importing D:\pbpost\voters\data\voterhistory\MRN_H_20140502.txt
+2014-06-19T02:53:40.4142263-04:00 : Importing D:\pbpost\voters\data\voterhistory\MRT_H_20140502.txt
+2014-06-19T02:56:04.6925026-04:00 : finished importing D:\pbpost\voters\data\voterhistory\MRT_H_20140502.txt
+2014-06-19T02:56:04.6985076-04:00 : Importing D:\pbpost\voters\data\voterhistory\NAS_H_20140502.txt
+2014-06-19T02:58:10.5381509-04:00 : finished importing D:\pbpost\voters\data\voterhistory\NAS_H_20140502.txt
+2014-06-19T02:58:10.5421564-04:00 : Importing D:\pbpost\voters\data\voterhistory\OKA_H_20140502.txt
+2014-06-19T03:01:06.2838708-04:00 : finished importing D:\pbpost\voters\data\voterhistory\OKA_H_20140502.txt
+2014-06-19T03:01:06.2928751-04:00 : Importing D:\pbpost\voters\data\voterhistory\OKE_H_20140502.txt
+2014-06-19T03:01:38.3358077-04:00 : finished importing D:\pbpost\voters\data\voterhistory\OKE_H_20140502.txt
+2014-06-19T03:01:38.3408126-04:00 : Importing D:\pbpost\voters\data\voterhistory\ORA_H_20140502.txt
+2014-06-19T03:26:20.8236090-04:00 : finished importing D:\pbpost\voters\data\voterhistory\ORA_H_20140502.txt
+2014-06-19T03:26:20.9187195-04:00 : Importing D:\pbpost\voters\data\voterhistory\OSC_H_20140502.txt
+2014-06-19T03:29:42.8810828-04:00 : finished importing D:\pbpost\voters\data\voterhistory\OSC_H_20140502.txt
+2014-06-19T03:29:42.8900944-04:00 : Importing D:\pbpost\voters\data\voterhistory\PAL_H_20140502.txt
+2014-06-19T03:52:50.5152259-04:00 : finished importing D:\pbpost\voters\data\voterhistory\PAL_H_20140502.txt
+2014-06-19T03:52:50.5542750-04:00 : Importing D:\pbpost\voters\data\voterhistory\PAS_H_20140502.txt
+2014-06-19T04:06:14.5062881-04:00 : finished importing D:\pbpost\voters\data\voterhistory\PAS_H_20140502.txt
+2014-06-19T04:06:14.5162976-04:00 : Importing D:\pbpost\voters\data\voterhistory\PIN_H_20140502.txt
+2014-06-19T04:23:37.7283976-04:00 : finished importing D:\pbpost\voters\data\voterhistory\PIN_H_20140502.txt
+2014-06-19T04:23:37.7714403-04:00 : Importing D:\pbpost\voters\data\voterhistory\POL_H_20140502.txt
+2014-06-19T04:38:35.3179900-04:00 : finished importing D:\pbpost\voters\data\voterhistory\POL_H_20140502.txt
+2014-06-19T04:38:35.3841031-04:00 : Importing D:\pbpost\voters\data\voterhistory\PUT_H_20140502.txt
+2014-06-19T04:40:19.4300108-04:00 : finished importing D:\pbpost\voters\data\voterhistory\PUT_H_20140502.txt
+2014-06-19T04:40:19.4360177-04:00 : Importing D:\pbpost\voters\data\voterhistory\SAN_H_20140502.txt
+2014-06-19T04:44:26.9245177-04:00 : finished importing D:\pbpost\voters\data\voterhistory\SAN_H_20140502.txt
+2014-06-19T04:44:26.9866411-04:00 : Importing D:\pbpost\voters\data\voterhistory\SAR_H_20140502.txt
+2014-06-19T04:51:49.3130286-04:00 : finished importing D:\pbpost\voters\data\voterhistory\SAR_H_20140502.txt
+2014-06-19T04:51:49.3591256-04:00 : Importing D:\pbpost\voters\data\voterhistory\SEM_H_20140502.txt
+2014-06-19T05:06:58.9384915-04:00 : finished importing D:\pbpost\voters\data\voterhistory\SEM_H_20140502.txt
+2014-06-19T05:06:58.9855809-04:00 : Importing D:\pbpost\voters\data\voterhistory\STJ_H_20140502.txt
+2014-06-19T05:20:07.7138174-04:00 : finished importing D:\pbpost\voters\data\voterhistory\STJ_H_20140502.txt
+2014-06-19T05:20:07.7798759-04:00 : Importing D:\pbpost\voters\data\voterhistory\STL_H_20140502.txt
+2014-06-19T05:26:59.7749376-04:00 : finished importing D:\pbpost\voters\data\voterhistory\STL_H_20140502.txt
+2014-06-19T05:26:59.8260333-04:00 : Importing D:\pbpost\voters\data\voterhistory\SUM_H_20140502.txt
+2014-06-19T05:31:04.5149574-04:00 : finished importing D:\pbpost\voters\data\voterhistory\SUM_H_20140502.txt
+2014-06-19T05:31:04.5199623-04:00 : Importing D:\pbpost\voters\data\voterhistory\SUW_H_20140502.txt
+2014-06-19T05:33:05.8865815-04:00 : finished importing D:\pbpost\voters\data\voterhistory\SUW_H_20140502.txt
+2014-06-19T05:33:05.8965743-04:00 : Importing D:\pbpost\voters\data\voterhistory\TAY_H_20140502.txt
+2014-06-19T05:33:59.6851507-04:00 : finished importing D:\pbpost\voters\data\voterhistory\TAY_H_20140502.txt
+2014-06-19T05:33:59.6931579-04:00 : Importing D:\pbpost\voters\data\voterhistory\UNI_H_20140502.txt
+2014-06-19T05:34:24.2293156-04:00 : finished importing D:\pbpost\voters\data\voterhistory\UNI_H_20140502.txt
+2014-06-19T05:34:24.2373232-04:00 : Importing D:\pbpost\voters\data\voterhistory\VOL_H_20140502.txt
+2014-06-19T05:44:45.7065608-04:00 : finished importing D:\pbpost\voters\data\voterhistory\VOL_H_20140502.txt
+2014-06-19T05:44:45.7145680-04:00 : Importing D:\pbpost\voters\data\voterhistory\WAK_H_20140502.txt
+2014-06-19T05:45:47.5644186-04:00 : finished importing D:\pbpost\voters\data\voterhistory\WAK_H_20140502.txt
+2014-06-19T05:45:47.5714261-04:00 : Importing D:\pbpost\voters\data\voterhistory\WAL_H_20140502.txt
+2014-06-19T05:48:02.3551469-04:00 : finished importing D:\pbpost\voters\data\voterhistory\WAL_H_20140502.txt
+2014-06-19T05:48:02.3651548-04:00 : Importing D:\pbpost\voters\data\voterhistory\WAS_H_20140502.txt
+2014-06-19T05:49:04.8806107-04:00 : finished importing D:\pbpost\voters\data\voterhistory\WAS_H_20140502.txt
