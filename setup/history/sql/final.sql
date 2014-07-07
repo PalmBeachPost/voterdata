@@ -5,3 +5,5 @@ UPDATE voters
 SET isactive = true
 WHERE id IN
 (SELECT voter_id FROM registration WHERE status ='ACT')
+
+

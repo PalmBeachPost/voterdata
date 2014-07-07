@@ -33,3 +33,26 @@ SET STANDARD_CONFORMING_STRINGS TO ON;
 		);
 	CREATE INDEX ON history (voter_id, election_id);
 	CREATE INDEX ON history (voter_id, election_id, vote);
+
+/*----------------------LOOKUP TABLES-----------------------------------*/
+	DROP TABLE IF EXISTS party;
+	CREATE TABLE party(
+			name varchar(3) PRIMARY KEY,
+			descr varchar
+	);
+	COPY party FROM '..\..\..\data\partylookup.tsv' DELIMITER E'\t';
+
+	DROP TABLE IF EXISTS race;
+	CREATE TABLE race(
+		id int PRIMARY KEY,
+		name VARCHAR
+	);
+	COPY race FROM '..\..\..\data\racelookup.tsv' DELIMITER E'\t';
+
+
+	DROP TABLE IF EXISTS voteCodes;
+	CREATE TABLE voteCodes (
+		vcode CHAR PRIMARY KEY,
+		descr VARCHAR
+	);
+	COPY votecodes FROM '..\..\..\data\votecodelookup.tsv' DELIMITER E'\t';
