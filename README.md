@@ -1,4 +1,4 @@
-This setup script cleans and imports voter data and election history data from http://election.dos.state.fl.us/ (usually sent as DVDs) into an indexed relational database.
+This setup script cleans and imports voter data and election history data from [Florida Dept. Of Elections](http://election.dos.state.fl.us/) (usually sent as DVDs) into an indexed relational database.
 
 #REQUIREMENTS
 ------------
