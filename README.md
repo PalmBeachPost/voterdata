@@ -1,12 +1,12 @@
 This setup script cleans and imports voter data and election history data from http://election.dos.state.fl.us/ (usually sent as DVDs) into an indexed relational database.
 
-####REQUIREMENTS
+#REQUIREMENTS
 ------------
 1. Powershell 3.0 or higher
 2. Postgres SQL
 
 
-###STEPS
+#STEPS
 ----------
 Unzip the files and place it under appropriate folders under 'data' directory
 
