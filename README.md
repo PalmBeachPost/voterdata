@@ -34,7 +34,7 @@ Add -nuke 1 to drop existing database and start from scratch
 ####IMPORT VOTER HISTORY
 The history files are fairly clean and could be imported without cleaning. There may be files that do not get imported correctly.
 
-1 . Place extracted files in data/voterhistory folder
+1. Place extracted files in data/voterhistory folder
 2. Open Powershell and navigate to /setup/history folder
 3. Run the following
 ```
